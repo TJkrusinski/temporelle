@@ -21,6 +21,12 @@ temporelle('10 minutes');
 temporelle('30 seconds');
 // => integer
 
+/**
+ *	Creates the same key for 1 hour intervals
+ */
+temporelle('1 hour');
+// => integer
+
 ```
 
 ### Supported Units
