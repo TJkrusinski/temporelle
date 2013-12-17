@@ -1,0 +1,28 @@
+{
+  "name": "temporelle",
+  "version": "0.0.1",
+  "description": "Create time series keys",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TJkrusinski/temporelle.git"
+  },
+  "keywords": [
+    "time",
+    "series",
+    "keys",
+    "temporelle"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/temporelle/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/temporelle"
+}
