@@ -22,9 +22,21 @@ temporelle('30 seconds');
 // => integer
 
 /**
+ *	Creates the same key for 30 second intervals 2 minutes ago
+ */
+temporelle('30 seconds', 4);
+// => integer
+
+/**
  *	Creates the same key for 1 hour intervals
  */
 temporelle('1 hour');
+// => integer
+
+/**
+ *	Creates the same key for 1 hour intervals from 1 hour ago
+ */
+temporelle('1 hour', 1);
 // => integer
 
 ```
