@@ -1,5 +1,7 @@
 ## temporelle (time)
 
+[![Build Status](https://travis-ci.org/TJkrusinski/temporelle.png?branch=master)](https://travis-ci.org/TJkrusinski/temporelle)
+
 A library to create time series keys in an aggregate manner. Works great for producing distributed time series keys.
 
 ### Example
