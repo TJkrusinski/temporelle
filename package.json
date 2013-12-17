@@ -1,6 +1,6 @@
 {
   "name": "temporelle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create time series keys",
   "main": "index.js",
   "directories": {
